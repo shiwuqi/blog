@@ -5,7 +5,8 @@
 
 ## JavaScript
 - [JavaScript获取音视频](https://github.com/shiwuqi/blog/issues/3)
-- [Node节点](https://github.com/shiwuqi/blog/issues/4)
+- [Node节点](https://github.com/shiwuqi/blog/issues/4)  
+- [js继承](https://github.com/shiwuqi/blog/issues/5)
 
 ## React
 
